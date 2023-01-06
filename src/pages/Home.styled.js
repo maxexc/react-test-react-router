@@ -1,5 +1,8 @@
 import styled from 'styled-components';
 
 export const MainPageContainer = styled.div`
-  margin-left: 15px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: 32px;  
 `;
