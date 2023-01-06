@@ -1,7 +1,16 @@
+// import { useParams } from "react-router-dom";
+// import { getProductById } from "../fakeAPI";
+
+// export const ProductDetails = () => {
+//   const { id } = useParams();
+//   const product = getProductById(id);
+//   return <div>Now showing product with id - {product.name} {id}</div>;
+// };
+
 import { useParams } from "react-router-dom";
 import { getProductById } from "../fakeAPI";
 
-export const ProductDetails = () => {
+const ProductDetails = () => {
   const { id } = useParams();
   const product = getProductById(id);
   return (
@@ -23,3 +32,5 @@ export const ProductDetails = () => {
     </main>
   );
 };
+
+export default ProductDetails;
