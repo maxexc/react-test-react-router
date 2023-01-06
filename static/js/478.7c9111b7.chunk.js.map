@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/478.7c9111b7.chunk.js","mappings":"0JAQA,UARmB,WACf,OACA,2BACI,yDAGP,C","sources":["pages/TestError.jsx"],"sourcesContent":[" const TestError = () => {\n    return (\n    <main>\n        <h2>Test Error, check 404 error</h2>    \n    </main>\n    )\n}\n\nexport default TestError"],"names":[],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_test_react_router=self.webpackChunkreact_test_react_router||[]).push([[478],{478:function(r,e,t){t.r(e);var c=t(184);e.default=function(){return(0,c.jsx)("main",{children:(0,c.jsx)("h2",{children:"Test Error, check 404 error"})})}}}]);
+//# sourceMappingURL=478.7c9111b7.chunk.js.map
